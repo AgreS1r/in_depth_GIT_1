@@ -19,28 +19,26 @@ P.S. Возникали конфликты по переносу новой ин
 
 2. Верните эти изменения командой git revert последовательно, чтобы в итоге получилось тоже три коммита.
 
-![ex_2_1.png](Screen/ex_2_1.png)
+![ex_2_1.png](images/ex_2_1.png)
 
-![ex_2_2.png](Screen/ex_2_2.png)
+![ex_2_2.png](images/ex_2_2.png)
 
 3. Попробуйте отменить эти три коммита:
 
 
 * последний — командами git reset --soft и git restore;
 
-![ex_2_3.png](Screen/ex_2_3.png)
+![ex_2_3.png](images/ex_2_3.png)
 
 * предпоследний — командой git reset --mixed и git restore;
 
-![ex_2_4.png](Screen/ex_2_4.png)
+![ex_2_4.png](images/ex_2_4.png)
 
 
 * первый — командой git reset --hard.
 
-![ex_2_5.png](Screen/ex_2_5.png)
+![ex_2_5.png](images/ex_2_5.png)
 
-![ex_2_6.png](Screen/ex_2_6.png)\
+![ex_2_6.png](images/ex_2_6.png)
 
-## Урок 3. Практики и инструменты для работы с Git
 
-Добавил комментарий к работе.
